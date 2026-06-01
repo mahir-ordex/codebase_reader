@@ -1,0 +1,9 @@
+fastapi
+langchain
+gitpython
+langchain-google-genai
+langchain-text-splitters
+langchain-postgres
+langchain-core 
+langchain-cohere 
+sqlalchemy
