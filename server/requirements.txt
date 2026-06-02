@@ -1,4 +1,7 @@
 fastapi
+uvicorn
+python-multipart
+chromadb
 langchain
 gitpython
 langchain-google-genai
