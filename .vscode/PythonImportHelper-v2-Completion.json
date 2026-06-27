@@ -1,0 +1,1782 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "html",
+        "description": "html",
+        "detail": "html",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "chromadb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromadb",
+        "description": "chromadb",
+        "detail": "chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "run_in_threadpool",
+        "importPath": "fastapi.concurrency",
+        "description": "fastapi.concurrency",
+        "isExtraImport": true,
+        "detail": "fastapi.concurrency",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "HTMLResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "Repo",
+        "importPath": "git",
+        "description": "git",
+        "isExtraImport": true,
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bcrypt",
+        "description": "bcrypt",
+        "detail": "bcrypt",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.model",
+        "description": "app.models.model",
+        "isExtraImport": true,
+        "detail": "app.models.model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.model",
+        "description": "app.models.model",
+        "isExtraImport": true,
+        "detail": "app.models.model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.model",
+        "description": "app.models.model",
+        "isExtraImport": true,
+        "detail": "app.models.model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.model",
+        "description": "app.models.model",
+        "isExtraImport": true,
+        "detail": "app.models.model",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "engine_file",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "engine_file",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "JWTServices",
+        "importPath": "app.utils.jwt",
+        "description": "app.utils.jwt",
+        "isExtraImport": true,
+        "detail": "app.utils.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "JWTServices",
+        "importPath": "app.utils.jwt",
+        "description": "app.utils.jwt",
+        "isExtraImport": true,
+        "detail": "app.utils.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "JWTServices",
+        "importPath": "app.utils.jwt",
+        "description": "app.utils.jwt",
+        "isExtraImport": true,
+        "detail": "app.utils.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "JWTServices",
+        "importPath": "app.utils.jwt",
+        "description": "app.utils.jwt",
+        "isExtraImport": true,
+        "detail": "app.utils.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "require_both",
+        "importPath": "app.middleware.auth",
+        "description": "app.middleware.auth",
+        "isExtraImport": true,
+        "detail": "app.middleware.auth",
+        "documentation": {}
+    },
+    {
+        "label": "require_user",
+        "importPath": "app.middleware.auth",
+        "description": "app.middleware.auth",
+        "isExtraImport": true,
+        "detail": "app.middleware.auth",
+        "documentation": {}
+    },
+    {
+        "label": "require_both",
+        "importPath": "app.middleware.auth",
+        "description": "app.middleware.auth",
+        "isExtraImport": true,
+        "detail": "app.middleware.auth",
+        "documentation": {}
+    },
+    {
+        "label": "require_user",
+        "importPath": "app.middleware.auth",
+        "description": "app.middleware.auth",
+        "isExtraImport": true,
+        "detail": "app.middleware.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "route",
+        "importPath": "app.apis.users.users",
+        "description": "app.apis.users.users",
+        "isExtraImport": true,
+        "detail": "app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "route",
+        "importPath": "app.apis.users.users",
+        "description": "app.apis.users.users",
+        "isExtraImport": true,
+        "detail": "app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.apis.auth.auth",
+        "description": "app.apis.auth.auth",
+        "isExtraImport": true,
+        "detail": "app.apis.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.apis.auth.auth",
+        "description": "app.apis.auth.auth",
+        "isExtraImport": true,
+        "detail": "app.apis.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "build_collection",
+        "importPath": "app.main",
+        "description": "app.main",
+        "isExtraImport": true,
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "RepoRecord",
+        "kind": 6,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "class RepoRecord:\n    repo_url: str\n    repo_dir: Path\n    collection_name: str\n    repo_slug: str\nclass LocalHashEmbedding:\n    def __init__(self, dimension: int = EMBEDDING_DIMENSION) -> None:\n        self.dimension = dimension\n    def embed_documents(self, texts: list[str]) -> list[list[float]]:\n        return [self._embed(text) for text in texts]",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "LocalHashEmbedding",
+        "kind": 6,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "class LocalHashEmbedding:\n    def __init__(self, dimension: int = EMBEDDING_DIMENSION) -> None:\n        self.dimension = dimension\n    def embed_documents(self, texts: list[str]) -> list[list[float]]:\n        return [self._embed(text) for text in texts]\n    def embed_query(self, text: str) -> list[float]:\n        return self._embed(text)\n    def _embed(self, text: str) -> list[float]:\n        vector = [0.0] * self.dimension\n        tokens = self._tokens(text)",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_embedding_function",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def get_embedding_function() -> LocalHashEmbedding:\n    return LocalHashEmbedding()\n@lru_cache(maxsize=1)\ndef get_chroma_client() -> chromadb.PersistentClient:\n    CHROMA_DIR.mkdir(parents=True, exist_ok=True)\n    return chromadb.PersistentClient(path=str(CHROMA_DIR))\n@lru_cache(maxsize=1)\ndef get_splitter() -> RecursiveCharacterTextSplitter:\n    return RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=180)\ndef normalize_repo_url(repo_url: str) -> str:",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_chroma_client",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def get_chroma_client() -> chromadb.PersistentClient:\n    CHROMA_DIR.mkdir(parents=True, exist_ok=True)\n    return chromadb.PersistentClient(path=str(CHROMA_DIR))\n@lru_cache(maxsize=1)\ndef get_splitter() -> RecursiveCharacterTextSplitter:\n    return RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=180)\ndef normalize_repo_url(repo_url: str) -> str:\n    cleaned = repo_url.strip()\n    if cleaned.startswith(\"file://\"):\n        cleaned = cleaned[7:]",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_splitter",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def get_splitter() -> RecursiveCharacterTextSplitter:\n    return RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=180)\ndef normalize_repo_url(repo_url: str) -> str:\n    cleaned = repo_url.strip()\n    if cleaned.startswith(\"file://\"):\n        cleaned = cleaned[7:]\n    if cleaned.endswith(\".git\"):\n        cleaned = cleaned[:-4]\n    return cleaned.rstrip(\"/\")\ndef safe_slug(value: str) -> str:",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_repo_url",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def normalize_repo_url(repo_url: str) -> str:\n    cleaned = repo_url.strip()\n    if cleaned.startswith(\"file://\"):\n        cleaned = cleaned[7:]\n    if cleaned.endswith(\".git\"):\n        cleaned = cleaned[:-4]\n    return cleaned.rstrip(\"/\")\ndef safe_slug(value: str) -> str:\n    slug = re.sub(r\"[^a-zA-Z0-9]+\", \"-\", value).strip(\"-\").lower()\n    return slug or \"repo\"",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "safe_slug",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def safe_slug(value: str) -> str:\n    slug = re.sub(r\"[^a-zA-Z0-9]+\", \"-\", value).strip(\"-\").lower()\n    return slug or \"repo\"\ndef repo_hash(repo_url: str) -> str:\n    return hashlib.sha1(normalize_repo_url(repo_url).encode(\"utf-8\", errors=\"ignore\")).hexdigest()[:12]\ndef get_repo_record(repo_url: str) -> RepoRecord:\n    normalized = normalize_repo_url(repo_url)\n    parsed = urlparse(normalized)\n    candidate_name = Path(parsed.path if parsed.scheme else normalized).name\n    repo_slug = f\"{safe_slug(candidate_name)}-{repo_hash(normalized)}\"",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "repo_hash",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def repo_hash(repo_url: str) -> str:\n    return hashlib.sha1(normalize_repo_url(repo_url).encode(\"utf-8\", errors=\"ignore\")).hexdigest()[:12]\ndef get_repo_record(repo_url: str) -> RepoRecord:\n    normalized = normalize_repo_url(repo_url)\n    parsed = urlparse(normalized)\n    candidate_name = Path(parsed.path if parsed.scheme else normalized).name\n    repo_slug = f\"{safe_slug(candidate_name)}-{repo_hash(normalized)}\"\n    repo_dir = REPOS_DIR / repo_slug\n    collection_name = f\"repo_{repo_slug.replace('-', '_')}\"\n    return RepoRecord(repo_url=normalized, repo_dir=repo_dir, collection_name=collection_name, repo_slug=repo_slug)",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_repo_record",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def get_repo_record(repo_url: str) -> RepoRecord:\n    normalized = normalize_repo_url(repo_url)\n    parsed = urlparse(normalized)\n    candidate_name = Path(parsed.path if parsed.scheme else normalized).name\n    repo_slug = f\"{safe_slug(candidate_name)}-{repo_hash(normalized)}\"\n    repo_dir = REPOS_DIR / repo_slug\n    collection_name = f\"repo_{repo_slug.replace('-', '_')}\"\n    return RepoRecord(repo_url=normalized, repo_dir=repo_dir, collection_name=collection_name, repo_slug=repo_slug)\ndef clone_or_open_repo(repo_url: str) -> Path:\n    record = get_repo_record(repo_url)",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "clone_or_open_repo",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def clone_or_open_repo(repo_url: str) -> Path:\n    record = get_repo_record(repo_url)\n    REPOS_DIR.mkdir(parents=True, exist_ok=True)\n    source_path = Path(record.repo_url)\n    if source_path.exists():\n        return source_path.resolve()\n    temp_dir = REPOS_DIR / f\"{record.repo_slug}-{uuid.uuid4().hex}\"\n    clone_command = [\n        \"git\",\n        \"clone\",",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "is_indexable_file",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def is_indexable_file(path: Path) -> bool:\n    if path.name in ALLOWED_FILENAMES:\n        return True\n    suffix = path.suffix.lower()\n    return suffix in ALLOWED_EXTENSIONS or path.name.lower() == \"dockerfile\"\ndef read_text_file(path: Path) -> str | None:\n    try:\n        if path.stat().st_size > MAX_FILE_SIZE_BYTES:\n            return None\n        return path.read_text(encoding=\"utf-8\", errors=\"ignore\")",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_text_file",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def read_text_file(path: Path) -> str | None:\n    try:\n        if path.stat().st_size > MAX_FILE_SIZE_BYTES:\n            return None\n        return path.read_text(encoding=\"utf-8\", errors=\"ignore\")\n    except OSError:\n        return None\ndef collect_repo_files(repo_path: Path) -> list[Path]:\n    files: list[Path] = []\n    for path in repo_path.rglob(\"*\"):",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "collect_repo_files",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def collect_repo_files(repo_path: Path) -> list[Path]:\n    files: list[Path] = []\n    for path in repo_path.rglob(\"*\"):\n        if not path.is_file():\n            continue\n        if any(part in SKIP_DIRS for part in path.parts):\n            continue\n        if is_indexable_file(path):\n            files.append(path)\n    return sorted(files)",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_file_content",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def chunk_file_content(content: str) -> list[str]:\n    splitter = get_splitter()\n    return splitter.split_text(content)\ndef build_collection(repo_url: str) -> dict[str, Any]:\n    repo_path = clone_or_open_repo(repo_url)\n    record = get_repo_record(repo_url)\n    client = get_chroma_client()\n    embedding = get_embedding_function()\n    try:\n        client.delete_collection(record.collection_name)",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "build_collection",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def build_collection(repo_url: str) -> dict[str, Any]:\n    repo_path = clone_or_open_repo(repo_url)\n    record = get_repo_record(repo_url)\n    client = get_chroma_client()\n    embedding = get_embedding_function()\n    try:\n        client.delete_collection(record.collection_name)\n    except Exception:\n        pass\n    collection = client.create_collection(name=record.collection_name, metadata={\"repo_url\": record.repo_url})",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "search_collection",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def search_collection(repo_url: str, question: str, top_k: int = DEFAULT_TOP_K) -> dict[str, Any]:\n    record = get_repo_record(repo_url)\n    client = get_chroma_client()\n    embedding = get_embedding_function()\n    try:\n        collection = client.get_collection(name=record.collection_name)\n    except Exception as exc:\n        raise HTTPException(status_code=404, detail=\"Repository not indexed yet. Call /api/ingest first.\") from exc\n    query_embedding = embedding.embed_query(question)\n    result = collection.query(",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "synthesize_answer",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def synthesize_answer(question: str, matches: list[dict[str, Any]]) -> str:\n    if not matches:\n        return \"I could not find any relevant code chunks for that question.\"\n    api_key = os.getenv(\"GOOGLE_API_KEY\") or os.getenv(\"GEMINI_API_KEY\")\n    if api_key:\n        try:\n            llm = ChatGoogleGenerativeAI(\n                model=os.getenv(\"GOOGLE_GENAI_MODEL\", \"gemini-1.5-flash\"),\n                temperature=0.2,\n                google_api_key=api_key,",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "build_tree_preview",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def build_tree_preview(repo_path: Path) -> list[str]:\n    paths = collect_repo_files(repo_path)\n    preview: list[str] = []\n    for path in paths[:MAX_HTML_FILES]:\n        preview.append(str(path.relative_to(repo_path)).replace(\"\\\\\", \"/\"))\n    return preview\ndef render_workflow_html(summary: dict[str, Any], tree_preview: list[str], question: str | None = None) -> str:\n    title = html.escape(summary.get(\"repo_slug\", \"repo\"))\n    workflow_json = html.escape(json.dumps(summary, indent=2))\n    tree_html = \"\".join(f\"<li>{html.escape(item)}</li>\" for item in tree_preview) or \"<li>No files indexed yet</li>\"",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "render_workflow_html",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def render_workflow_html(summary: dict[str, Any], tree_preview: list[str], question: str | None = None) -> str:\n    title = html.escape(summary.get(\"repo_slug\", \"repo\"))\n    workflow_json = html.escape(json.dumps(summary, indent=2))\n    tree_html = \"\".join(f\"<li>{html.escape(item)}</li>\" for item in tree_preview) or \"<li>No files indexed yet</li>\"\n    question_html = html.escape(question or \"Ask a question to inspect the flow.\")\n    return f\"\"\"\n<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def home() -> HTMLResponse:\n    html_body = \"\"\"\n<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <title>Codebase Q&A Tool</title>\n  <style>\n    body { font-family: ui-sans-serif, system-ui; background: #f7f4ee; margin: 0; color: #1f1a17; }",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "kind": 2,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "def health() -> dict[str, str]:\n    return {\"status\": \"ok\"}\nasync def parse_payload(request: Request) -> dict[str, Any]:\n    content_type = request.headers.get(\"content-type\", \"\")\n    if \"application/json\" in content_type:\n        body = await request.json()\n        return dict(body)\n    form = await request.form()\n    return dict(form)\n@app.post(\"/api/ingest\")",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "APP_ROOT",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "APP_ROOT = Path(__file__).resolve().parent.parent\nDATA_DIR = Path(tempfile.gettempdir()) / \"codebase_reader\" / \"server\"\nREPOS_DIR = DATA_DIR / \"repos\"\nCHROMA_DIR = DATA_DIR / \"chroma\"\nALLOWED_EXTENSIONS = {\n    \".py\",\n    \".js\",\n    \".jsx\",\n    \".ts\",\n    \".tsx\",",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "DATA_DIR",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "DATA_DIR = Path(tempfile.gettempdir()) / \"codebase_reader\" / \"server\"\nREPOS_DIR = DATA_DIR / \"repos\"\nCHROMA_DIR = DATA_DIR / \"chroma\"\nALLOWED_EXTENSIONS = {\n    \".py\",\n    \".js\",\n    \".jsx\",\n    \".ts\",\n    \".tsx\",\n    \".md\",",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "REPOS_DIR",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "REPOS_DIR = DATA_DIR / \"repos\"\nCHROMA_DIR = DATA_DIR / \"chroma\"\nALLOWED_EXTENSIONS = {\n    \".py\",\n    \".js\",\n    \".jsx\",\n    \".ts\",\n    \".tsx\",\n    \".md\",\n    \".txt\",",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "CHROMA_DIR",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "CHROMA_DIR = DATA_DIR / \"chroma\"\nALLOWED_EXTENSIONS = {\n    \".py\",\n    \".js\",\n    \".jsx\",\n    \".ts\",\n    \".tsx\",\n    \".md\",\n    \".txt\",\n    \".json\",",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_EXTENSIONS",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "ALLOWED_EXTENSIONS = {\n    \".py\",\n    \".js\",\n    \".jsx\",\n    \".ts\",\n    \".tsx\",\n    \".md\",\n    \".txt\",\n    \".json\",\n    \".yml\",",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_FILENAMES",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "ALLOWED_FILENAMES = {\"Dockerfile\", \"Makefile\", \"README\", \"LICENSE\"}\nSKIP_DIRS = {\n    \".git\",\n    \"node_modules\",\n    \"dist\",\n    \"build\",\n    \"coverage\",\n    \".next\",\n    \".venv\",\n    \"venv\",",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "SKIP_DIRS",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "SKIP_DIRS = {\n    \".git\",\n    \"node_modules\",\n    \"dist\",\n    \"build\",\n    \"coverage\",\n    \".next\",\n    \".venv\",\n    \"venv\",\n    \"env\",",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_FILE_SIZE_BYTES",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "MAX_FILE_SIZE_BYTES = 250_000\nEMBEDDING_DIMENSION = 384\nDEFAULT_TOP_K = 5\nMAX_HTML_FILES = 60\napp = FastAPI(title=\"Codebase Q&A Tool\", version=\"0.1.0\")\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "EMBEDDING_DIMENSION",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "EMBEDDING_DIMENSION = 384\nDEFAULT_TOP_K = 5\nMAX_HTML_FILES = 60\napp = FastAPI(title=\"Codebase Q&A Tool\", version=\"0.1.0\")\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_TOP_K",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "DEFAULT_TOP_K = 5\nMAX_HTML_FILES = 60\napp = FastAPI(title=\"Codebase Q&A Tool\", version=\"0.1.0\")\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_HTML_FILES",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "MAX_HTML_FILES = 60\napp = FastAPI(title=\"Codebase Q&A Tool\", version=\"0.1.0\")\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\n@dataclass(frozen=True)",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "server.app.main",
+        "description": "server.app.main",
+        "peekOfCode": "app = FastAPI(title=\"Codebase Q&A Tool\", version=\"0.1.0\")\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\n@dataclass(frozen=True)\nclass RepoRecord:",
+        "detail": "server.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "LoginBody",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.auth.auth",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.auth.auth",
+        "peekOfCode": "class LoginBody(BaseModel):\n    email: str | None = None\n    password: str | None = None\nclass SignupBody(BaseModel):\n    name: str | None = None\n    email: str | None = None\n    password: str | None = None\n@router.post(\"/login\")\nasync def login(body: LoginBody = Body(...), db:Session = Depends(get_db)):\n    try:",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "SignupBody",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.auth.auth",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.auth.auth",
+        "peekOfCode": "class SignupBody(BaseModel):\n    name: str | None = None\n    email: str | None = None\n    password: str | None = None\n@router.post(\"/login\")\nasync def login(body: LoginBody = Body(...), db:Session = Depends(get_db)):\n    try:\n        email = body.email\n        password = body.password\n        if not email:",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.auth.auth",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.auth.auth",
+        "peekOfCode": "router = APIRouter()\nclass LoginBody(BaseModel):\n    email: str | None = None\n    password: str | None = None\nclass SignupBody(BaseModel):\n    name: str | None = None\n    email: str | None = None\n    password: str | None = None\n@router.post(\"/login\")\nasync def login(body: LoginBody = Body(...), db:Session = Depends(get_db)):",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserBody",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "peekOfCode": "class UpdateUserBody(BaseModel):\n    name: str | None = None\n    email: str | None = None\n    bio: str | None = None\n    role: str | None = None\n@route.get(\"/{user_id}\")\ndef get_user_by_id(user_id: int, req: Request, db: Session = Depends(get_db), user: Dict[str, Any] = Depends(require_both)) -> Dict[str, Any]:\n    try:\n        current_user = req.state.user\n        if not current_user:",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_id",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "peekOfCode": "def get_user_by_id(user_id: int, req: Request, db: Session = Depends(get_db), user: Dict[str, Any] = Depends(require_both)) -> Dict[str, Any]:\n    try:\n        current_user = req.state.user\n        if not current_user:\n            raise HTTPException(status_code=403, detail=\"Unauthorized Request User!\")\n        db_user = db.query(User).filter(User.id == user_id).first()\n        if not db_user:\n            raise HTTPException(status_code=404, detail=\"User not found\")\n        return {\n            \"id\": db_user.id,",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "peekOfCode": "def update_user(req: Request, payload: UpdateUserBody = Body(...), user: Dict[str, Any] = Depends(require_both), db: Session = Depends(get_db)) -> Dict[str, Any]:\n    try:\n        current_user = req.state.user\n        data = payload.model_dump(exclude_unset=True)\n        if not current_user:\n            raise HTTPException(status_code=403, detail=\"Unauthorized Request User!\")\n        db_user = db.query(User).filter(User.id == current_user[\"id\"]).first()\n        if not db_user:\n            raise HTTPException(404, \"User not found\")\n        if \"email\" in data and data[\"email\"] != db_user.email:",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "peekOfCode": "def delete_user(req: Request, db: Session = Depends(get_db), current_user: Dict[str, Any] = Depends(require_user)) -> JSONResponse:\n    try:\n        if not current_user:\n            raise HTTPException(status_code=403, detail=\"Unauthorized User!\")\n        db.query(User).filter(User.id == current_user[\"id\"]).delete(synchronize_session=False)\n        db.commit()\n        return JSONResponse(status_code=200, content={\"success\": True})\n    except HTTPException:\n        raise\n    except Exception as e:",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "update_user_by_id",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "peekOfCode": "def update_user_by_id(user_id:int,req:Request,payload:UpdateUserBody=Body(...),db:Session=Depends(get_db)) -> Dict[str, Any]:\n    try:\n        current_user = req.state.user\n        if not current_user:\n            raise HTTPException(status_code=403,detail=\"Unathorize Request\")\n        if \"admin\" is not str(current_user.role):\n            raise HTTPException(status_code=403,detail=str(\"Only Admin!\"))\n        data = payload.model_dump(exclude_unset=True)\n        user = db.query(User).filter(User.id == user_id).first()\n        if not user:",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "route",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "peekOfCode": "route = APIRouter(prefix=\"/users\", tags=[\"users\"])\nclass UpdateUserBody(BaseModel):\n    name: str | None = None\n    email: str | None = None\n    bio: str | None = None\n    role: str | None = None\n@route.get(\"/{user_id}\")\ndef get_user_by_id(user_id: int, req: Request, db: Session = Depends(get_db), user: Dict[str, Any] = Depends(require_both)) -> Dict[str, Any]:\n    try:\n        current_user = req.state.user",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.models.model",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.models.model",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True,autoincrement=True)\n    name = Column(String, nullable=False)\n    email = Column(String, unique=True, nullable=False)\n    password = Column(String, nullable=False)\n    bio = Column(String)\n    role = Column(String)\n    blogs = relationship(\"Blog\", back_populates=\"author\", cascade=\"all, delete-orphan\")\nclass Blog(Base):",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.models.model",
+        "documentation": {}
+    },
+    {
+        "label": "Blog",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.models.model",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.models.model",
+        "peekOfCode": "class Blog(Base):\n    __tablename__ = \"blogs\"\n    id = Column(Integer, primary_key=True,autoincrement=True)\n    title = Column(String, nullable=False)\n    description = Column(String, nullable=False)\n    user_id = Column(Integer, ForeignKey(\"users.id\"), nullable=False)\n    author = relationship(\"User\", back_populates=\"blogs\")\nclass Comments(Base):\n    __tablename__ = \"comments\"\n    id = Column(Integer,primary_key=True, autoincrement=True)",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.models.model",
+        "documentation": {}
+    },
+    {
+        "label": "Comments",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.models.model",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.models.model",
+        "peekOfCode": "class Comments(Base):\n    __tablename__ = \"comments\"\n    id = Column(Integer,primary_key=True, autoincrement=True)\n    text = Column(String)\n    blog_id = Column(Integer, ForeignKey(\"blogs.id\"),nullable=False)",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.models.model",
+        "documentation": {}
+    },
+    {
+        "label": "JWTServices",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.utils.jwt",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.utils.jwt",
+        "peekOfCode": "class JWTServices:\n    @staticmethod\n    def verift_token(token: str):\n        try:\n            secret: Optional[str] = os.getenv(\"JWT_SECRET\")\n            if secret is None:\n                raise ValueError(\"JWT_SECRET is not set\")\n            user = jwt.decode(token, secret, algorithms=[\"HS256\"])\n            return user\n        except JWTError as e:",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.app.utils.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "peekOfCode": "def get_db():\n\tdb: Session = SessionLocal()\n\ttry:\n\t\tyield db\n\tfinally:\n\t\tdb.close()",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "documentation": {}
+    },
+    {
+        "label": "engine_file",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "peekOfCode": "engine_file = create_engine(\"sqlite:///example.db\", echo=True)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine_file)\nBase = declarative_base()\ndef get_db():\n\tdb: Session = SessionLocal()\n\ttry:\n\t\tyield db\n\tfinally:\n\t\tdb.close()",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine_file)\nBase = declarative_base()\ndef get_db():\n\tdb: Session = SessionLocal()\n\ttry:\n\t\tyield db\n\tfinally:\n\t\tdb.close()",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n\tdb: Session = SessionLocal()\n\ttry:\n\t\tyield db\n\tfinally:\n\t\tdb.close()",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.db",
+        "documentation": {}
+    },
+    {
+        "label": "read_root",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.main",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.main",
+        "peekOfCode": "def read_root():\n    return {\"message\": \"Blog API is running\"}\nif __name__ == \"__main__\":\n    uvicorn.run(\"main:app\", host=\"127.0.0.1\", port=8000, reload=True)",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.main",
+        "description": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.main",
+        "peekOfCode": "app = FastAPI(lifespan=lifespan)\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"http://localhost:5173\", \"http://127.0.0.1:5173\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\napp.include_router(auth_router)\napp.include_router(users_router)",
+        "detail": "server.data.repos.blog-4c470b7d88de-a0c3ad7add854d71860f84a22588bd94.backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "LoginBody",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.auth.auth",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.auth.auth",
+        "peekOfCode": "class LoginBody(BaseModel):\n    email: str | None = None\n    password: str | None = None\nclass SignupBody(BaseModel):\n    name: str | None = None\n    email: str | None = None\n    password: str | None = None\n@router.post(\"/login\")\nasync def login(body: LoginBody = Body(...), db:Session = Depends(get_db)):\n    try:",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "SignupBody",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.auth.auth",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.auth.auth",
+        "peekOfCode": "class SignupBody(BaseModel):\n    name: str | None = None\n    email: str | None = None\n    password: str | None = None\n@router.post(\"/login\")\nasync def login(body: LoginBody = Body(...), db:Session = Depends(get_db)):\n    try:\n        email = body.email\n        password = body.password\n        if not email:",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.auth.auth",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.auth.auth",
+        "peekOfCode": "router = APIRouter()\nclass LoginBody(BaseModel):\n    email: str | None = None\n    password: str | None = None\nclass SignupBody(BaseModel):\n    name: str | None = None\n    email: str | None = None\n    password: str | None = None\n@router.post(\"/login\")\nasync def login(body: LoginBody = Body(...), db:Session = Depends(get_db)):",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserBody",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "peekOfCode": "class UpdateUserBody(BaseModel):\n    name: str | None = None\n    email: str | None = None\n    bio: str | None = None\n    role: str | None = None\n@route.get(\"/{user_id}\")\ndef get_user_by_id(user_id: int, req: Request, db: Session = Depends(get_db), user: Dict[str, Any] = Depends(require_both)) -> Dict[str, Any]:\n    try:\n        current_user = req.state.user\n        if not current_user:",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_id",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "peekOfCode": "def get_user_by_id(user_id: int, req: Request, db: Session = Depends(get_db), user: Dict[str, Any] = Depends(require_both)) -> Dict[str, Any]:\n    try:\n        current_user = req.state.user\n        if not current_user:\n            raise HTTPException(status_code=403, detail=\"Unauthorized Request User!\")\n        db_user = db.query(User).filter(User.id == user_id).first()\n        if not db_user:\n            raise HTTPException(status_code=404, detail=\"User not found\")\n        return {\n            \"id\": db_user.id,",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "peekOfCode": "def update_user(req: Request, payload: UpdateUserBody = Body(...), user: Dict[str, Any] = Depends(require_both), db: Session = Depends(get_db)) -> Dict[str, Any]:\n    try:\n        current_user = req.state.user\n        data = payload.model_dump(exclude_unset=True)\n        if not current_user:\n            raise HTTPException(status_code=403, detail=\"Unauthorized Request User!\")\n        db_user = db.query(User).filter(User.id == current_user[\"id\"]).first()\n        if not db_user:\n            raise HTTPException(404, \"User not found\")\n        if \"email\" in data and data[\"email\"] != db_user.email:",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "peekOfCode": "def delete_user(req: Request, db: Session = Depends(get_db), current_user: Dict[str, Any] = Depends(require_user)) -> JSONResponse:\n    try:\n        if not current_user:\n            raise HTTPException(status_code=403, detail=\"Unauthorized User!\")\n        db.query(User).filter(User.id == current_user[\"id\"]).delete(synchronize_session=False)\n        db.commit()\n        return JSONResponse(status_code=200, content={\"success\": True})\n    except HTTPException:\n        raise\n    except Exception as e:",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "update_user_by_id",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "peekOfCode": "def update_user_by_id(user_id:int,req:Request,payload:UpdateUserBody=Body(...),db:Session=Depends(get_db)) -> Dict[str, Any]:\n    try:\n        current_user = req.state.user\n        if not current_user:\n            raise HTTPException(status_code=403,detail=\"Unathorize Request\")\n        if \"admin\" is not str(current_user.role):\n            raise HTTPException(status_code=403,detail=str(\"Only Admin!\"))\n        data = payload.model_dump(exclude_unset=True)\n        user = db.query(User).filter(User.id == user_id).first()\n        if not user:",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "route",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "peekOfCode": "route = APIRouter(prefix=\"/users\", tags=[\"users\"])\nclass UpdateUserBody(BaseModel):\n    name: str | None = None\n    email: str | None = None\n    bio: str | None = None\n    role: str | None = None\n@route.get(\"/{user_id}\")\ndef get_user_by_id(user_id: int, req: Request, db: Session = Depends(get_db), user: Dict[str, Any] = Depends(require_both)) -> Dict[str, Any]:\n    try:\n        current_user = req.state.user",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.apis.users.users",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.models.model",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.models.model",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True,autoincrement=True)\n    name = Column(String, nullable=False)\n    email = Column(String, unique=True, nullable=False)\n    password = Column(String, nullable=False)\n    bio = Column(String)\n    role = Column(String)\n    blogs = relationship(\"Blog\", back_populates=\"author\", cascade=\"all, delete-orphan\")\nclass Blog(Base):",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.models.model",
+        "documentation": {}
+    },
+    {
+        "label": "Blog",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.models.model",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.models.model",
+        "peekOfCode": "class Blog(Base):\n    __tablename__ = \"blogs\"\n    id = Column(Integer, primary_key=True,autoincrement=True)\n    title = Column(String, nullable=False)\n    description = Column(String, nullable=False)\n    user_id = Column(Integer, ForeignKey(\"users.id\"), nullable=False)\n    author = relationship(\"User\", back_populates=\"blogs\")\nclass Comments(Base):\n    __tablename__ = \"comments\"\n    id = Column(Integer,primary_key=True, autoincrement=True)",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.models.model",
+        "documentation": {}
+    },
+    {
+        "label": "Comments",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.models.model",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.models.model",
+        "peekOfCode": "class Comments(Base):\n    __tablename__ = \"comments\"\n    id = Column(Integer,primary_key=True, autoincrement=True)\n    text = Column(String)\n    blog_id = Column(Integer, ForeignKey(\"blogs.id\"),nullable=False)",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.models.model",
+        "documentation": {}
+    },
+    {
+        "label": "JWTServices",
+        "kind": 6,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.utils.jwt",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.utils.jwt",
+        "peekOfCode": "class JWTServices:\n    @staticmethod\n    def verift_token(token: str):\n        try:\n            secret: Optional[str] = os.getenv(\"JWT_SECRET\")\n            if secret is None:\n                raise ValueError(\"JWT_SECRET is not set\")\n            user = jwt.decode(token, secret, algorithms=[\"HS256\"])\n            return user\n        except JWTError as e:",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.app.utils.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "peekOfCode": "def get_db():\n\tdb: Session = SessionLocal()\n\ttry:\n\t\tyield db\n\tfinally:\n\t\tdb.close()",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "documentation": {}
+    },
+    {
+        "label": "engine_file",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "peekOfCode": "engine_file = create_engine(\"sqlite:///example.db\", echo=True)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine_file)\nBase = declarative_base()\ndef get_db():\n\tdb: Session = SessionLocal()\n\ttry:\n\t\tyield db\n\tfinally:\n\t\tdb.close()",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine_file)\nBase = declarative_base()\ndef get_db():\n\tdb: Session = SessionLocal()\n\ttry:\n\t\tyield db\n\tfinally:\n\t\tdb.close()",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n\tdb: Session = SessionLocal()\n\ttry:\n\t\tyield db\n\tfinally:\n\t\tdb.close()",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.db",
+        "documentation": {}
+    },
+    {
+        "label": "read_root",
+        "kind": 2,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.main",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.main",
+        "peekOfCode": "def read_root():\n    return {\"message\": \"Blog API is running\"}\nif __name__ == \"__main__\":\n    uvicorn.run(\"main:app\", host=\"127.0.0.1\", port=8000, reload=True)",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.main",
+        "description": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.main",
+        "peekOfCode": "app = FastAPI(lifespan=lifespan)\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"http://localhost:5173\", \"http://127.0.0.1:5173\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\napp.include_router(auth_router)\napp.include_router(users_router)",
+        "detail": "server.data.repos.blog-4c470b7d88de-d74a5aca798741f187413ae7b3fa6f8e.backend.main",
+        "documentation": {}
+    }
+]

@@ -6,6 +6,10 @@ import json
 import os
 import re
 import shutil
+import subprocess
+import tempfile
+import time
+import uuid
 from dataclasses import dataclass
 from functools import lru_cache
 from pathlib import Path
@@ -23,7 +27,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 APP_ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = APP_ROOT / "data"
+DATA_DIR = Path(tempfile.gettempdir()) / "codebase_reader" / "server"
 REPOS_DIR = DATA_DIR / "repos"
 CHROMA_DIR = DATA_DIR / "chroma"
 
@@ -184,10 +188,47 @@ def clone_or_open_repo(repo_url: str) -> Path:
     if source_path.exists():
         return source_path.resolve()
 
-    if record.repo_dir.exists():
-        shutil.rmtree(record.repo_dir)
+    temp_dir = REPOS_DIR / f"{record.repo_slug}-{uuid.uuid4().hex}"
+    clone_command = [
+        "git",
+        "clone",
+        "--depth",
+        "1",
+        "--single-branch",
+        record.repo_url,
+        str(temp_dir),
+    ]
+    clone_result = subprocess.run(clone_command, capture_output=True, text=True)
+    if clone_result.returncode != 0:
+        shutil.rmtree(temp_dir, ignore_errors=True)
+        stderr = clone_result.stderr.strip() or clone_result.stdout.strip() or "git clone failed"
+        raise HTTPException(status_code=400, detail=f"Unable to clone repository: {stderr}")
 
-    Repo.clone_from(record.repo_url, record.repo_dir)
+    # Attempt a safe, Windows-friendly replace of the temp clone into the cache
+    def _atomic_replace_dir(src: Path, dst: Path, attempts: int = 5, delay: float = 0.5) -> None:
+        try:
+            if not dst.exists():
+                src.replace(dst)
+                return
+
+            # Try removing the target directory and renaming
+            for _ in range(attempts):
+                try:
+                    if dst.exists():
+                        shutil.rmtree(dst, ignore_errors=False)
+                    src.replace(dst)
+                    return
+                except PermissionError:
+                    time.sleep(delay)
+
+            # As a last resort, copy the files into place and remove the temp dir
+            shutil.copytree(src, dst, dirs_exist_ok=True)
+            shutil.rmtree(src, ignore_errors=True)
+        except Exception as exc:
+            raise HTTPException(status_code=500, detail=f"Failed to move repo into cache: {exc}")
+
+    # If an existing cache exists, try to replace it safely.
+    _atomic_replace_dir(temp_dir, record.repo_dir)
     return record.repo_dir
 
 
